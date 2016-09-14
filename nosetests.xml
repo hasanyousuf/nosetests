@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite name="nosetests" tests="2" errors="0" failures="0" skip="0"><testcase classname="myMath_test" name="test_sum" time="0.003"></testcase><testcase classname="myMath_test" name="test_sub" time="0.001"></testcase></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite name="nosetests" tests="1" errors="0" failures="0" skip="0"><testcase classname="myMath_test" name="test_sum" time="0.001"></testcase></testsuite>

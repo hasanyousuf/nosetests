@@ -20,3 +20,8 @@ To generate human readable test report in html
 on ubuntu sudo apt install xsltproc
 
 -xsltproc nosetests.xslt nosetests.xml > tests.html
+
+
+To execute specific tests
+
+nosetests -a critical  --verbosity=3 -x . --with-coverage --with-xunit --cover-html 
